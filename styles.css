@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(rgb(155, 152, 152), white);
+}
+.child1 {
+    
+    width: 300px;
+    margin: 50px 0 50px 60px;
+    padding-left: 100px;
+    color: whitesmoke;
+    font-size: 10px;
+    margin-left: 200px;
+   
+}
+
+.child2 {
+    margin-left: 100px;
+}
+
+
+.parent {
+    display: inline-flex;
+}
+
+.adjust1 {
+    background-color: orangered;
+    margin-bottom: 20px;
+    padding: 10px 0 20px 10px;
+}
+
+.adjust2 {
+    background-color: orangered;
+        margin-bottom: 20px;
+        padding: 10px 0 20px 10px;
+}
+
+.adjust3 {
+    background-color: orangered;
+        margin-bottom: 20px;
+        padding: 10px 0 20px 10px;
+}
